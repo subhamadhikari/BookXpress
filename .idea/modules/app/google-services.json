@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "636402303864",
+    "project_id": "bookxpress-18d2e",
+    "storage_bucket": "bookxpress-18d2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636402303864:android:1b84c843e8f5c57f6c7e8d",
+        "android_client_info": {
+          "package_name": "com.example.bookxpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636402303864-airoo5pe0t22j3no695lof06kf7dik8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookxpress",
+            "certificate_hash": "0f0e1fdda2aac9f6f13b5cf87a09b5b54ed5c955"
+          }
+        },
+        {
+          "client_id": "636402303864-el16ri257t34r35qbkfqufo93o0s1vvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALNNjogtId3-62XlnOXOZcRrUEj6rChc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636402303864-el16ri257t34r35qbkfqufo93o0s1vvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

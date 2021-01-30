@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="General">
+        <menu>
+            <item android:title="Home"></item>
+            <item android:title="Post Books"></item>
+            <item android:title="Favourite"></item>
+        </menu>
+    </item>
+    <item android:title="Support">
+        <menu>
+            <item android:title="Rate" />
+            <item android:title="Share" />
+        </menu>
+    </item>
+    <item android:title="Logout">
+        <menu>
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_baseline_vpn_key_24"
+                android:title="Logout" />
+        </menu>
+    </item>
+</menu>
